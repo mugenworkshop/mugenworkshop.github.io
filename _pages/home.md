@@ -87,24 +87,24 @@ acknowledgements: ""
       </div>
     </td></tr>
     <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>
-      Oral Presentation: Kartik Chandra, Katherine M. Collins, Will Crichton, Tony Chen, Rachit Nigam, Adrian Weller, Tzu-Mao Li, Joshua B. Tenenbaum, Jonathan Ragan-Kelley<br/>
-      <span style="font-style:italic">WatChat: Explaining perplexing programs by debugging mental models</span>
+      Oral Presentation: TBD<br/>
+      <span style="font-style:italic">TBD</span>
       <a data-toggle="collapse" href="#schedule-talk4" aria-cexpanded="false" aria-controls="schedule-talk4">[Abstract]</a>
       <div class="collapse" id="schedule-talk4">
         Abstract: TBD
       </div>
     </td> </tr>
     <tr> <th scope="row" data-time="12:00">12:00 PM</th> <td>
-      Oral Presentation: Tianyi Zhang, Li Zhang, Zhaoyi Joey Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon <br/>
-      <span style="font-style:italic">PROC2PDDL: Open-Domain Planning Representations from Texts</span>
+      Oral Presentation: TBD<br/>
+      <span style="font-style:italic">TBD</span>
       <a data-toggle="collapse" href="#schedule-talk5" aria-cexpanded="false" aria-controls="schedule-talk5">[Abstract]</a>
       <div class="collapse" id="schedule-talk5">
         Abstract: TBD
       </div>
     </td></tr>
     <tr> <th scope="row" data-time="12:15">12:15 PM</th> <td>
-      Oral Presentation: Debjit Paul, Robert West, Antoine Bosselut, Boi Faltings <br/>
-      <span style="font-style:italic">Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning</span>
+      Oral Presentation: TBD<br/>
+      <span style="font-style:italic">TBD</span>
       <a data-toggle="collapse" href="#schedule-talk6" aria-cexpanded="false" aria-controls="schedule-talk6">[Abstract]</a>
       <div class="collapse" id="schedule-talk6">
         Abstract: TBD
@@ -222,6 +222,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <p>
       We welcome submissions on all topics related to AI and Scientific Discovery
+    </p>
   </div>
 </div>
 <hr />
