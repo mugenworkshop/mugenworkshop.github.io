@@ -1,4 +1,4 @@
-# nl-reasoning-workshop.github.io
-Webpage source files for Natural Language Reasoning and Structured Explanations
+# ai-and-scientific-discovery.github.io
+Webpage source files for workshop "AI and Scientific Discovery: Directions and Opportunities"
 
-https://nl-reasoning-workshop.github.io/
+https://ai-and-scientific-discovery.github.io/
