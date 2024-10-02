@@ -295,7 +295,7 @@ acknowledgements: ""
 
 
 <!-- Organizers -->
-<!-- <div class="row" id="organizers">
+<div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
@@ -303,12 +303,39 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cs.utexas.edu/~gdurrett//">
-      <img class="people-pic" src="https://www.cs.utexas.edu/~gdurrett/photo.png">
+    <a href="https://erichorvitz.com/">
+      <img class="people-pic" src="https://erichorvitz.com/Eric_Horvitz_frame_2020.jpg">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.utexas.edu/~gdurrett/">Greg Durrett</a>
-      <h6>University of Texas, Austin</h6>
+      <a href="https://erichorvitz.com/">Eric Horvitz</a>
+      <h6>Chief Scientific Officer (Microsoft)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://users.cs.northwestern.edu/~ddowney/">
+      <img class="people-pic" src="https://cdn.prod.website-files.com/605ba9b55a4a92803e45a32b/622298105eaf6064feda8491_doug-downey.jpeg">
+    </a>
+    <div class="people-name">
+      <a href="https://users.cs.northwestern.edu/~ddowney/">Doug Downey</a>
+      <h6>Senior Director (Ai2)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://tomhoper.github.io/">
+      <img class="people-pic" src="https://tomhoper.github.io//images/profile.png">
+    </a>
+    <div class="people-name">
+      <a href="https://tomhoper.github.io/">Tom Hope</a>
+      <h6>Asst. Professor (HUJI)</h6>
+    </div>
+  </div>
+ <div class="col-xs-6 col-lg-3">
+    <a href="https://tusharkhot.github.io/">
+      <img class="people-pic" src="https://tusharkhot.github.io/images/ai2_profile.jpeg">
+    </a>
+    <div class="people-name">
+      <a href="https://tusharkhot.github.io/">Tushar Khot</a>
+      <h6>Lead Research Scientist (Ai2)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -317,7 +344,16 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://allenai.org/team/bhavanad/">Bhavana Dalvi</a>
-      <h6>Allen Institute for AI</h6>
+      <h6>Lead Research Scientist (Ai2)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.majumderb.com/">
+      <img class="people-pic" src="https://www.majumderb.com/bodhi.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://www.majumderb.com/">Bodhisattwa Prasad Majumder</a>
+      <h6>Research Scientist (Ai2)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -326,52 +362,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://cognitiveai.org/">Peter Jansen</a>
-      <h6>University of Arizona</h6>
+      <h6>Assoc. Prof. (University of Arizona)</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://dnr2.github.io/academic_website/">
-      <img class="people-pic" src="https://dnr2.github.io/academic_website/images/profile.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://dnr2.github.io/academic_website/">Danilo Ribeiro</a>
-      <h6>Amazon AWS</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://web.mit.edu/zyzzyva/www/academic.html">
-      <img class="people-pic" src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png">
-    </a>
-    <div class="people-name">
-      <a href="https://web.mit.edu/zyzzyva/www/academic.html">Lionel Wong</a>
-      <h6>MIT</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://xiye17.github.io/">
-      <img class="people-pic" src="https://xiye17.github.io/avatar.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://xiye17.github.io/">Xi Ye</a>
-      <h6>University of Texas, Austin</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://wenting-zhao.github.io/">
-      <img class="people-pic" src="https://avatars.githubusercontent.com/u/8762524?v=4">
-    </a>
-    <div class="people-name">
-      <a href="https://wenting-zhao.github.io/">Wenting Zhao</a>
-      <h6>Cornell University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://benlipkin.github.io/index.html">
-      <img class="people-pic" src="https://benlipkin.github.io/assets/images/compressed-816x816.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://benlipkin.github.io/index.html">Ben Lipkin</a>
-      <h6>MIT</h6>
-    </div>
-  </div>
-</div>-->
+</div>
