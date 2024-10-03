@@ -47,7 +47,8 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://cs.stanford.edu/people/jure/">Jure Leskovec</a>
-      <h6>Stanford University</h6>
+      <h6>Stanford University </h6>
+      <h6>(MLAgentBench/Automated NLP)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -56,7 +57,8 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://blender.cs.illinois.edu/hengji.html">Heng Ji</a>
-      <h6>UIUC</h6>
+      <h6>UIUC </h6>
+      <h6>(Literature-based Discovery)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -65,7 +67,8 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://pclark425.github.io/">Peter Clark</a>
-      <h6>Ai2</h6>
+      <h6>Ai2 </h6>
+      <h6>(Automated Research Assistants)</h6>
     </div>
   </div>
     <div class="col-xs-6 col-lg-3">
@@ -75,6 +78,7 @@ acknowledgements: ""
     <div class="people-name">
       <a href="https://zitniklab.hms.harvard.edu/">Marinka Zitnik</a>
       <h6>Harvard University</h6>
+      <h6>Interpretable Drug Discovery</h6>
     </div>
   </div>
 </div>
