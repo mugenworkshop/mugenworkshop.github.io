@@ -340,7 +340,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://allenai.org/team/bhavanad/">
-      <img class="people-pic" src="https://bhavanadalvi.github.io/bhavana.jpeg">
+      <img class="people-pic" src="https://images.ctfassets.net/wf5t1ptx352c/6W6eEkb6MMkoU8gYM8CWgW/d2f1d7519f70705caef84f2a5b1af39b/Bhavana-Dalvi.jpg">
     </a>
     <div class="people-name">
       <a href="https://allenai.org/team/bhavanad/">Bhavana Dalvi</a>
