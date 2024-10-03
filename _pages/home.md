@@ -78,7 +78,7 @@ acknowledgements: ""
     <div class="people-name">
       <a href="https://zitniklab.hms.harvard.edu/">Marinka Zitnik</a>
       <h6>Harvard University</h6>
-      <h6>Interpretable Drug Discovery</h6>
+      <h6>(Interpretable Drug Discovery)</h6>
     </div>
   </div>
 </div>
