@@ -122,74 +122,6 @@ These recent developments highlight the possibility of rapidly accelerating the 
   </div>
 </div>
 <hr />
-<!-- Submission -->
-<div class="row" id="guidelines">
-  <div class="col-xs-12">
-    <h2>Submission Guidelines</h2>
-  </div>
-</div>
-<div class="row">
-    <div class="col-xs-12">
-      <p>
-      We welcome three types of papers: archival workshop papers, non-archival papers, and non-archival cross-submissions. Only regular workshop papers will be included in the workshop proceedings. <i>Regular workshop submissions (both archival and non-archival)</i> should be in PDF format and made through the <b>OpenReview website</b> set up for this workshop 
-      <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>. In line with the ACL main conference policy, camera-ready versions of regular workshop papers will be given one additional page of content. <i>Non-archival cross-submissions</i> should be made through the <b>form</b> <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>.
-        </p>
-    <ul>
-      <li><b>Archival regular workshop papers: </b>
-      <!-- Authors should submit a paper up to <b>8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a style="color:#2980b9;font-weight:400;" href="https://2023.aclweb.org/calls/main_conference/#paper-types-and-formats">ACL 2023 formatting requirements</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings. -->
-      Authors should submit a paper <b>up to 8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a href="https://www.aclweb.org/adminwiki/index.php/ACL_Author_Guidelines" style="color:#2980b9;font-weight:400;">ACL author guidelines</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings. <b>Preference for oral presentation slots in the workshop will be given to archival papers</b>.</li>
-      <li> <b> Non-archival regular workshop papers: </b> This is the same as the option above, but these papers will not appear in the proceedings and will typically only receive poster presentation slots. Non-archival submissions in this category will still undergo the review process. This is appropriate for nearly finished work that is intended for submission to another venue at a later date. </li>
-      <li><b>Non-archival cross-submissions: </b> We also solicit cross-submissions, i.e., papers on relevant topics that <i>have already</i> appeared in other venues (e.g., workshop or conference papers at NLP, ML, or cognitive science venues, among others). Accepted papers will be presented at the workshop, with an indication of original venue, but will not be included in the workshop proceedings. Cross-submissions are ideal for related work which would benefit from exposure to the audience working on <b>Scientific Discovery</b>. Papers in this category do not need to follow the ACL format, and the submission length is determined by the original venue. The paper selection will be solely determined by the organizing committee in a non-blind fashion. These papers will typically receive poster presentation slots.</li>
-    </ul>
-    <p>
-        In addition, we welcome papers on relevant topics that are <i>under review or to be submitted to </i> other venues (including the ACL 2024 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.</p>
-   
-   <p>
-     <b>Note to authors: For archival and non-archival regular workshop submissions, while you submit your paper through OpenReview (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>), please select the "Submission Type" properly based on the guidelines. For cross-submissions, please fill out this form (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>) and do NOT submit through OpenReview.
-</b></p>
-   <p>
-   For questions about the submission guidelines, please contact workshop organizers via <a href="ai-and-scientific-discovery@googlegroups.com">ai-and-scientific-discovery@googlegroups.com</a>.
-
-     </p>
-      
-</div>
-</div>
-<hr />
-  
-<div class="col-xs-12"  id="dates">
-    <h2>Important Dates</h2>  
-</div>
-
-<br>
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Paper Submission Deadline</td>
-          <td>TBD (All deadlines are 11:59 PM AoE time.)</td>
-        </tr>
-        <tr>
-          <td>Decision Notifications</td>
-          <td>TBD</td>
-        </tr>
-        <tr>
-          <td>Camera Ready Paper Deadline</td>
-          <td>TBD</td>
-        </tr>
-        <tr>
-          <td>Workshop Date</td>
-          <td>TBD</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-
-<hr />
-
-
 <!-- Organizers -->
 <div class="row" id="organizers">
   <div class="col-xs-12">
@@ -213,7 +145,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </a>
     <div class="people-name">
       <a href="https://users.cs.northwestern.edu/~ddowney/">Doug Downey</a>
-      <h6>Senior Director (Ai2)</h6>
+      <h6>Director of Semantic Scholar(Ai2)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -261,8 +193,78 @@ These recent developments highlight the possibility of rapidly accelerating the 
       <h6>Assoc. Prof. (University of Arizona)</h6>
     </div>
   </div>
+</div>
+ <hr /> 
 
+<!-- Submission -->
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Submission Guidelines</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+      <p>
+      We welcome three types of papers: archival workshop papers, non-archival papers, and non-archival cross-submissions. Only regular workshop papers will be included in the workshop proceedings. <i>Regular workshop submissions (both archival and non-archival)</i> should be in PDF format and made through the <b>OpenReview website</b> set up for this workshop 
+      <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>. In line with the ACL main conference policy, camera-ready versions of regular workshop papers will be given one additional page of content. <i>Non-archival cross-submissions</i> should be made through the <b>form</b> <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>.
+      </p>
+    <ul>
+      <li><b>Archival regular workshop papers: </b>
+      <!-- Authors should submit a paper up to <b>8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a style="color:#2980b9;font-weight:400;" href="https://2023.aclweb.org/calls/main_conference/#paper-types-and-formats">ACL 2023 formatting requirements</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings. -->
+      Authors should submit a paper <b>up to 8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a href="https://www.aclweb.org/adminwiki/index.php/ACL_Author_Guidelines" style="color:#2980b9;font-weight:400;">ACL author guidelines</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings. <b>Preference for oral presentation slots in the workshop will be given to archival papers</b>.</li>
+      <li> <b> Non-archival regular workshop papers: </b> This is the same as the option above, but these papers will not appear in the proceedings and will typically only receive poster presentation slots. Non-archival submissions in this category will still undergo the review process. This is appropriate for nearly finished work that is intended for submission to another venue at a later date. </li>
+      <li><b>Non-archival cross-submissions: </b> We also solicit cross-submissions, i.e., papers on relevant topics that <i>have already</i> appeared in other venues (e.g., workshop or conference papers at NLP, ML, or cognitive science venues, among others). Accepted papers will be presented at the workshop, with an indication of original venue, but will not be included in the workshop proceedings. Cross-submissions are ideal for related work which would benefit from exposure to the audience working on <b>Scientific Discovery</b>. Papers in this category do not need to follow the ACL format, and the submission length is determined by the original venue. The paper selection will be solely determined by the organizing committee in a non-blind fashion. These papers will typically receive poster presentation slots.</li>
+    </ul>
+    <p>
+        In addition, we welcome papers on relevant topics that are <i>under review or to be submitted to </i> other venues (including the ACL 2024 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.
+    </p>
+   
+   <p>
+     <b>Note to authors: For archival and non-archival regular workshop submissions, while you submit your paper through OpenReview (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>), please select the "Submission Type" properly based on the guidelines. For cross-submissions, please fill out this form (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>) and do NOT submit through OpenReview.
+     </b>
+   </p>
+   <p>
+   For questions about the submission guidelines, please contact workshop organizers via <a href="ai-and-scientific-discovery@googlegroups.com">ai-and-scientific-discovery@googlegroups.com</a>.
+   </p> 
+</div>
+</div>
+<hr />
   
+<div class="col-xs-12"  id="dates">
+    <h2>Important Dates</h2>  
+</div>
+
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Paper Submission Deadline</td>
+          <td>TBD (All deadlines are 11:59 PM AoE time.)</td>
+        </tr>
+        <tr>
+          <td>Decision Notifications</td>
+          <td>TBD</td>
+        </tr>
+        <tr>
+          <td>Camera Ready Paper Deadline</td>
+          <td>TBD</td>
+        </tr>
+        <tr>
+          <td>Workshop Date</td>
+          <td>TBD</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<hr />
+
+
+
 <div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
     <h2>Schedule</h2>
@@ -388,5 +390,4 @@ These recent developments highlight the possibility of rapidly accelerating the 
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
   </div>
-</div>
 </div>
