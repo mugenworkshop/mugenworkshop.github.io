@@ -91,11 +91,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
 
 <hr />
 
-<div class="row" id="accepted">
-  <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-  </div>
-</div>
+
 
 <ul class="paper-list">
 </ul>
@@ -386,5 +382,9 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </table>
   </div>
 </div>
-
+<div class="row" id="accepted">
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
 </div>
