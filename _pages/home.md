@@ -103,7 +103,17 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We welcome submissions on all topics related to AI and Scientific Discovery
+      We welcome submissions on all topics related to AI and Scientific Discovery including but not limited to: <br>
+      <ul>
+      <li> Literature-based Discovery</li>
+        <li>Agent-centered Approaches </li>
+        <li>Automated Experiment Execution </li>
+        <li>Automated Replication </li>
+        <li>Data-driven Discovery </li>
+        <li>Discovery in Virtual Environments </li>
+        <li>Discovery with Humans in the Loop</li>
+        <li>Assistants for Scientific Writing</li>
+      </ul>
     </p>
   </div>
 </div>
