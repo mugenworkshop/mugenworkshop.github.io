@@ -12,8 +12,8 @@ acknowledgements: ""
 <!-- <br /> -->
 <!-- <div class="row" id="title">
   <div class="col-xs-12">
-    <center><h1>Natural Language Reasoning and Structured Explanations Workshop</h1></center>
-    <center><h2>July 13-14, 2023 @ ACL 2023. Toronto, Canada.</h2></center>
+    <center><h1>AI & Scientific Discovery Workshop</h1></center>
+    <center><h2>TBD.</h2></center>
  
     
     
@@ -32,6 +32,219 @@ acknowledgements: ""
 
 <br />
 
+<hr />
+
+<!-- Speakers -->
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Speakers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://cs.stanford.edu/people/jure/">
+      <img class="people-pic" src="https://cs.stanford.edu/people/jure/images/jure-2b.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://cs.stanford.edu/people/jure/">Jure Leskovec</a>
+      <h6>Stanford University</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://blender.cs.illinois.edu/hengji.html">
+      <img class="people-pic" src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=16852&s=300">
+    </a>
+    <div class="people-name">
+      <a href="https://blender.cs.illinois.edu/hengji.html">Heng Ji</a>
+      <h6>UIUC</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://pclark425.github.io/">
+      <img class="people-pic" src="https://pclark425.github.io/images/Peter_Clark.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://pclark425.github.io/">Peter Clark</a>
+      <h6>Ai2</h6>
+    </div>
+  </div>
+    <div class="col-xs-6 col-lg-3">
+    <a href="https://zitniklab.hms.harvard.edu/">
+      <img class="people-pic" src="https://zitniklab.hms.harvard.edu/img/marinka_zitnik.png">
+    </a>
+    <div class="people-name">
+      <a href="https://zitniklab.hms.harvard.edu/">Marinka Zitnik</a>
+      <h6>Harvard University</h6>
+    </div>
+  </div>
+</div>
+
+<hr />
+
+<div class="row" id="accepted">
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
+
+<ul class="paper-list">
+</ul>
+
+
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      We welcome submissions on all topics related to AI and Scientific Discovery
+    </p>
+  </div>
+</div>
+<hr />
+<!-- Submission -->
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Submission Guidelines</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+      <p>
+      We welcome three types of papers: archival workshop papers, non-archival papers, and non-archival cross-submissions. Only regular workshop papers will be included in the workshop proceedings. <i>Regular workshop submissions (both archival and non-archival)</i> should be in PDF format and made through the <b>OpenReview website</b> set up for this workshop 
+      <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>. In line with the ACL main conference policy, camera-ready versions of regular workshop papers will be given one additional page of content. <i>Non-archival cross-submissions</i> should be made through the <b>form</b> <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>.
+        </p>
+    <ul>
+      <li><b>Archival regular workshop papers: </b>
+      <!-- Authors should submit a paper up to <b>8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a style="color:#2980b9;font-weight:400;" href="https://2023.aclweb.org/calls/main_conference/#paper-types-and-formats">ACL 2023 formatting requirements</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings. -->
+      Authors should submit a paper <b>up to 8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a href="https://www.aclweb.org/adminwiki/index.php/ACL_Author_Guidelines" style="color:#2980b9;font-weight:400;">ACL author guidelines</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings. <b>Preference for oral presentation slots in the workshop will be given to archival papers</b>.</li>
+      <li> <b> Non-archival regular workshop papers: </b> This is the same as the option above, but these papers will not appear in the proceedings and will typically only receive poster presentation slots. Non-archival submissions in this category will still undergo the review process. This is appropriate for nearly finished work that is intended for submission to another venue at a later date. </li>
+      <li><b>Non-archival cross-submissions: </b> We also solicit cross-submissions, i.e., papers on relevant topics that <i>have already</i> appeared in other venues (e.g., workshop or conference papers at NLP, ML, or cognitive science venues, among others). Accepted papers will be presented at the workshop, with an indication of original venue, but will not be included in the workshop proceedings. Cross-submissions are ideal for related work which would benefit from exposure to the audience working on <b>Scientific Discovery</b>. Papers in this category do not need to follow the ACL format, and the submission length is determined by the original venue. The paper selection will be solely determined by the organizing committee in a non-blind fashion. These papers will typically receive poster presentation slots.</li>
+    </ul>
+    <p>
+        In addition, we welcome papers on relevant topics that are <i>under review or to be submitted to </i> other venues (including the ACL 2024 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.</p>
+   
+   <p>
+     <b>Note to authors: For archival and non-archival regular workshop submissions, while you submit your paper through OpenReview (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>), please select the "Submission Type" properly based on the guidelines. For cross-submissions, please fill out this form (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>) and do NOT submit through OpenReview.
+</b></p>
+   <p>
+   For questions about the submission guidelines, please contact workshop organizers via <a href="ai-and-scientific-discovery@googlegroups.com">ai-and-scientific-discovery@googlegroups.com</a>.
+
+     </p>
+      
+</div>
+</div>
+<hr />
+  
+<div class="col-xs-12"  id="dates">
+    <h2>Important Dates</h2>  
+</div>
+
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Paper Submission Deadline</td>
+          <td>TBD (All deadlines are 11:59 PM AoE time.)</td>
+        </tr>
+        <tr>
+          <td>Decision Notifications</td>
+          <td>TBD</td>
+        </tr>
+        <tr>
+          <td>Camera Ready Paper Deadline</td>
+          <td>TBD</td>
+        </tr>
+        <tr>
+          <td>Workshop Date</td>
+          <td>TBD</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<hr />
+
+
+<!-- Organizers -->
+<div class="row" id="organizers">
+  <div class="col-xs-12">
+    <h2>Organizers</h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://erichorvitz.com/">
+      <img class="people-pic" src="https://erichorvitz.com/Eric_Horvitz_frame_2020.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://erichorvitz.com/">Eric Horvitz</a>
+      <h6>Chief Scientific Officer (Microsoft)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://users.cs.northwestern.edu/~ddowney/">
+      <img class="people-pic" src="https://cdn.prod.website-files.com/605ba9b55a4a92803e45a32b/622298105eaf6064feda8491_doug-downey.jpeg">
+    </a>
+    <div class="people-name">
+      <a href="https://users.cs.northwestern.edu/~ddowney/">Doug Downey</a>
+      <h6>Senior Director (Ai2)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://tomhoper.github.io/">
+      <img class="people-pic" src="https://tomhoper.github.io//images/profile.png">
+    </a>
+    <div class="people-name">
+      <a href="https://tomhoper.github.io/">Tom Hope</a>
+      <h6>Asst. Professor (HUJI)</h6>
+    </div>
+  </div>
+ <div class="col-xs-6 col-lg-3">
+    <a href="https://tusharkhot.github.io/">
+      <img class="people-pic" src="https://tusharkhot.github.io/images/ai2_profile.jpeg">
+    </a>
+    <div class="people-name">
+      <a href="https://tusharkhot.github.io/">Tushar Khot</a>
+      <h6>Lead Research Scientist (Ai2)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://allenai.org/team/bhavanad/">
+      <img class="people-pic" src="https://images.ctfassets.net/wf5t1ptx352c/6W6eEkb6MMkoU8gYM8CWgW/d2f1d7519f70705caef84f2a5b1af39b/Bhavana-Dalvi.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://allenai.org/team/bhavanad/">Bhavana Dalvi Mishra</a>
+      <h6>Lead Research Scientist (Ai2)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.majumderb.com/">
+      <img class="people-pic" src="https://www.majumderb.com/bodhi.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://www.majumderb.com/">Bodhisattwa Prasad Majumder</a>
+      <h6>Research Scientist (Ai2)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://cognitiveai.org/">
+      <img class="people-pic" src="http://cognitiveai.org/wp-content/uploads/2016/10/peter_tedx-300x300.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://cognitiveai.org/">Peter Jansen</a>
+      <h6>Assoc. Prof. (University of Arizona)</h6>
+    </div>
+  </div>
+
+  
 <div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
     <h2>Schedule</h2>
@@ -154,215 +367,4 @@ acknowledgements: ""
   </div>
 </div>
 
-<hr />
-
-<!-- Speakers -->
-<div class="row" id="speakers">
-  <div class="col-xs-12">
-    <h2>Speakers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://cs.stanford.edu/people/jure/">
-      <img class="people-pic" src="https://cs.stanford.edu/people/jure/images/jure-2b.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://cs.stanford.edu/people/jure/">Jure Leskovec</a>
-      <h6>Stanford University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://blender.cs.illinois.edu/hengji.html">
-      <img class="people-pic" src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=16852&s=300">
-    </a>
-    <div class="people-name">
-      <a href="https://blender.cs.illinois.edu/hengji.html">Heng Ji</a>
-      <h6>UIUC</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://pclark425.github.io/">
-      <img class="people-pic" src="https://pclark425.github.io/images/Peter_Clark.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://pclark425.github.io/">Peter Clark</a>
-      <h6>Ai2</h6>
-    </div>
-  </div>
-    <div class="col-xs-6 col-lg-3">
-    <a href="https://zitniklab.hms.harvard.edu/">
-      <img class="people-pic" src="https://zitniklab.hms.harvard.edu/img/marinka_zitnik.png">
-    </a>
-    <div class="people-name">
-      <a href="https://zitniklab.hms.harvard.edu/">Marinka Zitnik</a>
-      <h6>Harvard University</h6>
-    </div>
-  </div>
-</div>
-
-<hr />
-
-<div class="row" id="accepted">
-  <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-  </div>
-</div>
-
-<ul class="paper-list">
-</ul>
-
-
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      We welcome submissions on all topics related to AI and Scientific Discovery
-    </p>
-  </div>
-</div>
-<hr />
-<!-- Submission -->
-<div class="row" id="guidelines">
-  <div class="col-xs-12">
-    <h2>Submission Guidelines</h2>
-  </div>
-</div>
-<div class="row">
-    <div class="col-xs-12">
-      <p>
-      We welcome three types of papers: archival workshop papers, non-archival papers, and non-archival cross-submissions. Only regular workshop papers will be included in the workshop proceedings. <i>Regular workshop submissions (both archival and non-archival)</i> should be in PDF format and made through the <b>OpenReview website</b> set up for this workshop 
-      <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>. In line with the ACL main conference policy, camera-ready versions of regular workshop papers will be given one additional page of content. <i>Non-archival cross-submissions</i> should be made through the <b>form</b> <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>.
-        </p>
-    <ul>
-      <li><b>Archival regular workshop papers: </b>
-      <!-- Authors should submit a paper up to <b>8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a style="color:#2980b9;font-weight:400;" href="https://2023.aclweb.org/calls/main_conference/#paper-types-and-formats">ACL 2023 formatting requirements</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings. -->
-      Authors should submit a paper <b>up to 8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a href="https://www.aclweb.org/adminwiki/index.php/ACL_Author_Guidelines" style="color:#2980b9;font-weight:400;">ACL author guidelines</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings. <b>Preference for oral presentation slots in the workshop will be given to archival papers</b>.</li>
-      <li> <b> Non-archival regular workshop papers: </b> This is the same as the option above, but these papers will not appear in the proceedings and will typically only receive poster presentation slots. Non-archival submissions in this category will still undergo the review process. This is appropriate for nearly finished work that is intended for submission to another venue at a later date. </li>
-      <li><b>Non-archival cross-submissions: </b> We also solicit cross-submissions, i.e., papers on relevant topics that <i>have already</i> appeared in other venues (e.g., workshop or conference papers at NLP, ML, or cognitive science venues, among others). Accepted papers will be presented at the workshop, with an indication of original venue, but will not be included in the workshop proceedings. Cross-submissions are ideal for related work which would benefit from exposure to the <b>NLReasoning</b> audience. Papers in this category do not need to follow the ACL format, and the submission length is determined by the original venue. The paper selection will be solely determined by the organizing committee in a non-blind fashion. These papers will typically receive poster presentation slots.</li>
-    </ul>
-    <p>
-        In addition, we welcome papers on relevant topics that are <i>under review or to be submitted to </i> other venues (including the ACL 2024 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.</p>
-   
-   <p>
-     <b>Note to authors: For archival and non-archival regular workshop submissions, while you submit your paper through OpenReview (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>), please select the "Submission Type" properly based on the guidelines. For cross-submissions, please fill out this form (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>) and do NOT submit through OpenReview.
-</b></p>
-   <p>
-   For questions about the submission guidelines, please contact workshop organizers via <a href="ai-and-scientific-discovery@googlegroups.com">ai-and-scientific-discovery@googlegroups.com</a>.
-
-     </p>
-      
-</div>
-</div>
-<hr />
-  
-<div class="col-xs-12"  id="dates">
-    <h2>Important Dates</h2>  
-</div>
-
-<br>
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Paper Submission Deadline</td>
-          <td>TBD (All deadlines are 11:59 PM AoE time.)</td>
-        </tr>
-        <tr>
-          <td>Decision Notifications</td>
-          <td>TBD</td>
-        </tr>
-        <tr>
-          <td>Camera Ready Paper Deadline</td>
-          <td>TBD</td>
-        </tr>
-        <tr>
-          <td>Workshop Date</td>
-          <td>TBD</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-
-<hr />
-
-
-<!-- Organizers -->
-<div class="row" id="organizers">
-  <div class="col-xs-12">
-    <h2>Organizers</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://erichorvitz.com/">
-      <img class="people-pic" src="https://erichorvitz.com/Eric_Horvitz_frame_2020.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://erichorvitz.com/">Eric Horvitz</a>
-      <h6>Chief Scientific Officer (Microsoft)</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://users.cs.northwestern.edu/~ddowney/">
-      <img class="people-pic" src="https://cdn.prod.website-files.com/605ba9b55a4a92803e45a32b/622298105eaf6064feda8491_doug-downey.jpeg">
-    </a>
-    <div class="people-name">
-      <a href="https://users.cs.northwestern.edu/~ddowney/">Doug Downey</a>
-      <h6>Senior Director (Ai2)</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://tomhoper.github.io/">
-      <img class="people-pic" src="https://tomhoper.github.io//images/profile.png">
-    </a>
-    <div class="people-name">
-      <a href="https://tomhoper.github.io/">Tom Hope</a>
-      <h6>Asst. Professor (HUJI)</h6>
-    </div>
-  </div>
- <div class="col-xs-6 col-lg-3">
-    <a href="https://tusharkhot.github.io/">
-      <img class="people-pic" src="https://tusharkhot.github.io/images/ai2_profile.jpeg">
-    </a>
-    <div class="people-name">
-      <a href="https://tusharkhot.github.io/">Tushar Khot</a>
-      <h6>Lead Research Scientist (Ai2)</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://allenai.org/team/bhavanad/">
-      <img class="people-pic" src="https://images.ctfassets.net/wf5t1ptx352c/6W6eEkb6MMkoU8gYM8CWgW/d2f1d7519f70705caef84f2a5b1af39b/Bhavana-Dalvi.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://allenai.org/team/bhavanad/">Bhavana Dalvi Mishra</a>
-      <h6>Lead Research Scientist (Ai2)</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.majumderb.com/">
-      <img class="people-pic" src="https://www.majumderb.com/bodhi.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://www.majumderb.com/">Bodhisattwa Prasad Majumder</a>
-      <h6>Research Scientist (Ai2)</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://cognitiveai.org/">
-      <img class="people-pic" src="http://cognitiveai.org/wp-content/uploads/2016/10/peter_tedx-300x300.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://cognitiveai.org/">Peter Jansen</a>
-      <h6>Assoc. Prof. (University of Arizona)</h6>
-    </div>
-  </div>
 </div>
