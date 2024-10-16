@@ -154,7 +154,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </a>
     <div class="people-name">
       <a href="https://tomhoper.github.io/">Tom Hope</a>
-      <h6>Asst. Professor (HUJI)</h6>
+      <h6>Asst. Professor (HUJI) <br/>Research Scientist (Ai2)</h6>
     </div>
   </div>
  <div class="col-xs-6 col-lg-3">
@@ -166,6 +166,8 @@ These recent developments highlight the possibility of rapidly accelerating the 
       <h6>Lead Research Scientist (Ai2)</h6>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://allenai.org/team/bhavanad/">
       <img class="people-pic" src="https://images.ctfassets.net/wf5t1ptx352c/6W6eEkb6MMkoU8gYM8CWgW/d2f1d7519f70705caef84f2a5b1af39b/Bhavana-Dalvi.jpg">
