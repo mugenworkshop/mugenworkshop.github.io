@@ -8,7 +8,7 @@ bibtex: true
 paper: true
 acknowledgements: ""
 ---
-
+<!-- 
 <br>
 <div class="row">
   <div class="col-xs-12">
@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h2>NAACL 2025 workshop, Albuquerque, New Mexico</h2></center>
     <center> May 3-4, 2025 (Exact date TBD)</center>
   </div>
-</div>
+</div> -->
 
 <br />
 
