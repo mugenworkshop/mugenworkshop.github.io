@@ -13,7 +13,7 @@ acknowledgements: ""
 <!-- <div class="row" id="title">
   <div class="col-xs-12">
     <center><h1>AI & Scientific Discovery Workshop</h1></center>
-    <center><h2>TBD.</h2></center>
+    <center><h2>@NAACL 2025, Albuquerque, New Mexico April 29–May 4, 2025</h2></center>
  
     
     
