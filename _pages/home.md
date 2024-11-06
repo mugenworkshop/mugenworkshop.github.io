@@ -61,7 +61,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://blender.cs.illinois.edu/hengji.html">
-      <img class="people-pic" src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=16852&s=300">
+      <img class="people-pic" src="/static/img/people/heng_ji.jpg">
     </a>
     <div class="people-name">
       <a href="https://blender.cs.illinois.edu/hengji.html">Heng Ji</a>
