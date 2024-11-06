@@ -8,15 +8,13 @@ bibtex: true
 paper: true
 acknowledgements: ""
 ---
-
-<!-- <br /> -->
-<!-- <div class="row" id="title">
+<!-- 
+<br>
+<div class="row">
   <div class="col-xs-12">
     <center><h1>AI & Scientific Discovery Workshop</h1></center>
-    <center><h2>TBD.</h2></center>
- 
-    
-    
+    <center><h2>NAACL 2025 workshop, Albuquerque, New Mexico</h2></center>
+    <center> May 3-4, 2025 (Exact date TBD)</center>
   </div>
 </div> -->
 
