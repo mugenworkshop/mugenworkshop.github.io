@@ -175,6 +175,16 @@ These recent developments highlight the possibility of rapidly accelerating the 
       <h6>Lead Research Scientist (Ai2)</h6>
     </div>
   </div>
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://harshtrivedi.me/">
+      <img class="people-pic" src="">
+    </a>
+    <div class="people-name">
+      <a href="https://harshtrivedi.me/">Harsh Trivedi</a>
+      <h6>Stony Brook University</h6>
+    </div>
+  </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.majumderb.com/">
       <img class="people-pic" src="https://www.majumderb.com/bodhi.jpg">
