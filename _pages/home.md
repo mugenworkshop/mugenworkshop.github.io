@@ -175,7 +175,6 @@ These recent developments highlight the possibility of rapidly accelerating the 
       <h6>Lead Research Scientist (Ai2)</h6>
     </div>
   </div>
-<div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://harshtrivedi.me/">
       <img class="people-pic" src="">
