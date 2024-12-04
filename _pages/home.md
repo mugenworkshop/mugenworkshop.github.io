@@ -176,21 +176,21 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://harshtrivedi.me/">
-      <img class="people-pic" src="">
-    </a>
-    <div class="people-name">
-      <a href="https://harshtrivedi.me/">Harsh Trivedi</a>
-      <h6>Stony Brook University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
     <a href="https://www.majumderb.com/">
       <img class="people-pic" src="https://www.majumderb.com/bodhi.jpg">
     </a>
     <div class="people-name">
       <a href="https://www.majumderb.com/">Bodhisattwa Prasad Majumder</a>
       <h6>Research Scientist (Ai2)</h6>
+    </div>
+  </div>
+    <div class="col-xs-6 col-lg-3">
+    <a href="https://harshtrivedi.me/">
+      <img class="people-pic" src="">
+    </a>
+    <div class="people-name">
+      <a href="https://harshtrivedi.me/">Harsh Trivedi</a>
+      <h6>Stony Brook University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
