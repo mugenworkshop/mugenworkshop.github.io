@@ -215,7 +215,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <div class="col-xs-12">
       <p>
       We welcome three types of papers: archival workshop papers, non-archival papers, and non-archival cross-submissions. Only regular workshop papers will be included in the workshop proceedings. <i>Regular workshop submissions (both archival and non-archival)</i> should be in PDF format and made through the <b>OpenReview website</b> set up for this workshop 
-      <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>. In line with the ACL main conference policy, camera-ready versions of regular workshop papers will be given one additional page of content. <i>Non-archival cross-submissions</i> should be made through the <b>form</b> <a style="color:#2980b9;font-weight:400;" href="">([link](https://openreview.net/group?id=aclweb.org/NAACL/2025/Workshop/AISD))</a>.
+      <a style="color:#2980b9;font-weight:400;" href="">(TBD)</a>. In line with the ACL main conference policy, camera-ready versions of regular workshop papers will be given one additional page of content. <i>Non-archival cross-submissions</i> should be made through the <b>form</b> <a style="color:#2980b9;font-weight:400;" href="https://openreview.net/group?id=aclweb.org/NAACL/2025/Workshop/AISD">[link]</a>.
       </p>
     <ul>
       <li><b>Archival regular workshop papers: </b>
@@ -229,7 +229,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </p>
    
    <p>
-     <b>Note to authors: For archival and non-archival regular workshop submissions, while you submit your paper through OpenReview (<a style="color:#2980b9;font-weight:400;" href="">[link](https://openreview.net/group?id=aclweb.org/NAACL/2025/Workshop/AISD)</a>), please select the "Submission Type" properly based on the guidelines. For cross-submissions, please fill out this form (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>) and do NOT submit through OpenReview.
+     <b>Note to authors: For archival and non-archival regular workshop submissions, while you submit your paper through OpenReview (<a style="color:#2980b9;font-weight:400;" href="https://openreview.net/group?id=aclweb.org/NAACL/2025/Workshop/AISD">[link]</a>), please select the "Submission Type" properly based on the guidelines. For cross-submissions, please fill out this form (<a style="color:#2980b9;font-weight:400;" href="">TBD</a>) and do NOT submit through OpenReview.
      </b>
    </p>
    <p>
