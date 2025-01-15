@@ -233,7 +233,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
      </b>
    </p>
    <p>
-   For questions about the submission guidelines, please contact workshop organizers via <a href="ai-and-scientific-discovery@googlegroups.com">ai-and-scientific-discovery@googlegroups.com</a>.
+   For questions about the submission guidelines, please contact workshop organizers via <a href="aisd-organizers@googlegroups.com">aisd-organizers@googlegroups.com</a>.
    </p> 
 </div>
 </div>
