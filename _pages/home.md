@@ -250,11 +250,11 @@ These recent developments highlight the possibility of rapidly accelerating the 
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>Jan 30, 2025 (All deadlines are 11:59 PM AoE time.)</td>
+          <td>Feb 6, 2025 (All deadlines are 11:59 PM AoE time.)</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
-          <td>Feb 20, 2025</td>
+          <td>Feb 27, 2025</td>
         </tr>
         <tr>
           <td>Camera Ready Paper Deadline</td>
