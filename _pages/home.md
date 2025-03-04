@@ -14,11 +14,13 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>AI & Scientific Discovery Workshop</h1></center>
     <center><h2>NAACL 2025 workshop, Albuquerque, New Mexico</h2></center>
-    <center> May 3-4, 2025 (Exact date TBD)</center>
+    <center> May 3, 2025</center>
+    
   </div>
 </div> -->
 
 <br />
+<br>Registration: <a href="https://2025.naacl.org/registration/registration/">Please refer to NAACL 2025 registration website</a>
 
 <div class="row">
     <div class="col-xs-12">
