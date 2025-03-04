@@ -288,7 +288,6 @@ These recent developments highlight the possibility of rapidly accelerating the 
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
-    <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Virtual Poster Session</td></tr>
     <tr> <th scope="row" data-time="08:55">08:55 AM</th> <td>Opening Remarks</td></tr>
     <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
       Invited Speaker Talk 1<br />
