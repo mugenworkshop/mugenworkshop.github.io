@@ -264,7 +264,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>TBD</td>
+          <td>May 3, 2025</td>
         </tr>
       </tbody>
     </table>
