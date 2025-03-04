@@ -20,7 +20,7 @@ acknowledgements: ""
 </div> -->
 
 <br />
-<br>Registration: <a href="https://2025.naacl.org/registration/registration/">Please refer to NAACL 2025 registration website</a>
+<br>**Registration**: <a href="https://2025.naacl.org/registration/registration/">Please refer to NAACL 2025 registration website</a>
 
 <div class="row">
     <div class="col-xs-12">
