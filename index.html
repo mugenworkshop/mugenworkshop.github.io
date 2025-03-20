@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CFAgentic @ ICML 2025 - Workshop on Collaborative and Federated Agentic Workflows</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.1/font/bootstrap-icons.min.css" rel="stylesheet">
+    <style>
+        .bg-primary {
+            background-color: darkgreen !important;
+        }
+
+        a {
+            color: black;
+            text-underline: black;
+        }
+
+        a.no-underline {
+            text-decoration: none;
+        }
+
+        .hero-section {
+            height: 33vh;
+            background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('https://icml.cc/static/core/img/vancouver_convention_center.webp');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #333;
+            text-shadow: 1px 1px 2px rgba(255,255,255,0.5);
+            margin-top: 56px;
+        }
+
+        .navbar {
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        section {
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+            scroll-margin-top: 70px; /* Offset for fixed navbar height plus some extra space */
+        }
+
+        .speaker-card {
+            margin-bottom: 2rem;
+        }
+
+        .organizer-card {
+            margin-bottom: 2rem;
+        }
+
+        body {
+            position: relative;
+            padding-bottom: 2rem;
+        }
+    </style>
+</head>
+<body data-bs-spy="scroll" data-bs-target="#navbar">
+    <!-- Fixed Navigation Bar -->
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">CFAgentic @ ICML'25</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#description">Description</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#cfp">Call for Papers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#speakers">Invited Speakers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#team">Organizing Team</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#reviewers">Program Committee</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero-section">
+        <div class="text-center">
+            <h1>ICML 2025 Workshop on Collaborative and Federated Agentic Workflows</h1>
+            <h2>CFAgentic @ ICML'25</h2>
+            <p class="lead">Vancouver, Canada - July 2025</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Description Section with Sidebar -->
+        <section id="description">
+            <h2 class="mb-4">About the Workshop</h2>
+            <div class="row">
+                <!-- Main Content Column -->
+                <div class="col-lg-8">
+                    <p>Large language models (LLMs) have rapidly evolved into powerful engines capable of driving agentic workflows, i.e., autonomous sequences of actions traditionally performed by humans (e.g., booking flights, preparing administrative forms) based on textual and/or visual inputs. Embracing collaborative and federated learning is essential in this context, as these paradigms enable the aggregation of distributed data while preserving user privacy and ensuring regulatory compliance. By keeping data localized, federated approaches allow agentic workflows to continuously learn and adapt from diverse user interactions without exposing sensitive information. This distributed learning framework not only facilitates scalable and personalized improvements but also mitigates biases by incorporating insights from a broad range of environments, ultimately amplifying the transformative potential of agentic workflows for both industry and everyday applications.</p>
+
+                    <p>Recent commercial deployments, such as OpenAI Operator, highlight the significant impact of agentic workflows on the global economy and daily life. However, these workflows currently face several challenges including imprecise execution (e.g., incorrectly interacting with UI elements), suboptimal tool-use efficiency (e.g., latency in processing), and limitations in adaptive user-agent interactions (e.g., ineffective co-piloting and supervision). Additionally, while agentic workflows generate valuable data from user interactions, the sensitive and localized nature of this data creates hurdles for centralized learning approaches.</p>
+
+                    <p>Collaborative and federated learning are powerful methodologies to overcome these challenges. They facilitate collective improvement by enabling continuous workflow optimization through the distributed updates of the model and prompts without having to share the raw data. These methods also support personalization by tailoring agentic responses to individual user styles and preferences without compromising privacy. Importantly, they maintain strict regulatory compliance by ensuring that sensitive data remains local, which a critical requirement under emerging legislative frameworks such as the EU AI Act and Canada Bill C-27.</p>
+
+                    <p>This workshop uniquely focuses on the convergence of collaborative/federated learning with agentic workflows, fostering interdisciplinary research that bridges theoretical foundations, practical implementations, and regulatory considerations.</p>
+
+                </div>
+
+                <!-- Sidebar Column -->
+                <div class="col-lg-4">
+                    <div class="card mb-4">
+                        <div class="card-header bg-primary text-white">
+                            <h5 class="mb-0">News</h5>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li class="mb-3">
+                                    <div class="small text-muted">March 19, 2025</div>
+                                    <div>Workshop proposal accepted at ICML 2025!</div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="card mb-4">
+                        <div class="card-header bg-primary text-white">
+                            <h5 class="mb-0">Important Dates</h5>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item d-flex justify-content-between align-items-center">
+                                    Paper Submission Deadline
+                                    <span class="badge bg-primary">11.59 p.m. AoE, May 15, 2025</span>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between align-items-center">
+                                    Author Notification
+                                    <span class="badge bg-primary">June 9, 2025</span>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between align-items-center">
+                                    Camera-Ready Deadline
+                                    <span class="badge bg-primary">June 19, 2025</span>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between align-items-center">
+                                    Workshop Date
+                                    <span class="badge bg-primary">July 18 or July 19, 2025</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header bg-primary text-white">
+                            <h5 class="mb-0">Relevant Links</h5>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">
+                                    <a href="https://icml.cc/Conferences/2025" target="_blank" class="text-decoration-none">
+                                        ICML 2025 Main Conference
+                                        <i class="bi bi-box-arrow-up-right ms-1"></i>
+                                    </a>
+                                </li>
+                                <li class="list-group-item">
+                                    <a href="https://icml.cc/Conferences/2025/AuthorInstructions" class="text-decoration-none">
+                                        ICML 2025 Author Instructions & Author Kit
+                                        <i class="bi bi-box-arrow-up-right ms-1"></i>
+                                    </a>
+                                </li>
+                                <li class="list-group-item">
+                                    <a href="#" class="text-decoration-none">
+                                        Submission Portal (coming soon)
+                                        <i class="bi bi-box-arrow-up-right ms-1"></i>
+                                    </a>
+                                </li>
+                                <li class="list-group-item">
+                                    <a href="mailto:herbert.woisetschlaeger@tum.de?subject=CFAgentic@ICML25 | <YOUR TOPIC HERE>" class="text-decoration-none">
+                                        E-Mail the organizers
+                                        <i class="bi bi-box-arrow-up-right ms-1"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="cfp">
+            <h2 class="mb-4">Call for Papers</h2>
+                <p>We are soliciting contributions from the following fields and topics:</p>
+
+                <div class="accordion" id="topicsAccordion">
+                    <!-- Theory & Algorithmic Foundations -->
+                    <div class="accordion-item">
+                        <h3 class="accordion-header" id="headingOne">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Theory & Algorithmic Foundations for Collaborative and Federated Agentic Workflows
+                            </button>
+                        </h3>
+                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#topicsAccordion">
+                            <div class="accordion-body">
+                                <ul>
+                                    <li>Learnability of agentic workflows</li>
+                                    <li>Federated optimization advances (e.g., learning from scarce data)</li>
+                                    <li>Federated reinforcement learning</li>
+                                    <li>Multi-stage optimization for workflow improvement (e.g., global alignment + personalization)</li>
+                                    <li>Automatic tuning of agentic workflows across distributed users</li>
+                                    <li>Fairness, bias, and interoperability in agentic workflows</li>
+                                    <li>Robustness of agentic workflows</li>
+                                    <li>Personalization of agentic workflows</li>
+                                    <li>Multi-modal agentic workflows</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Systems and Infrastructure -->
+                    <div class="accordion-item">
+                        <h3 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Systems and Infrastructure for Collaborative and Federated Agentic Workflows
+                            </button>
+                        </h3>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#topicsAccordion">
+                            <div class="accordion-body">
+                                <ul>
+                                    <li>Data management for federated workflows</li>
+                                    <li>Design considerations and experiences of agentic systems and their infrastructure</li>
+                                    <li>Energy efficiency quantification, measurement, and optimization for agentic workflows</li>
+                                    <li>Private and secure computing for sensitive agentic workflows</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Regulatory Compliance -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Regulatory Compliance of Collaborative and Federated Agentic Workflows
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#topicsAccordion">
+                            <div class="accordion-body">
+                                <ul>
+                                    <li>Trustworthiness of agentic workflows</li>
+                                    <li>Safety of agentic workflows</li>
+                                    <li>Human oversight over agentic workflows</li>
+                                    <li>Privacy in agentic workflows</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <p class="mt-5">
+                    We welcome contributions that push the boundaries at this unique intersection and aim to create
+                    an engaging forum for students, scholars, and practitioners worldwide to share insights, discuss
+                    progress, and chart future directions in this exciting field. We invite <b>technical papers
+                    with up to 6 pages</b> each and <b>vision/position papers with up to 4 pages</b> each (excluding references
+                    and appendices), reviewed by a workshop program committee.
+                    All submissions must use the ICML 2025 author kit available <a href="https://icml.cc/Conferences/2025/AuthorInstructions">here</a>.
+                </p>
+        </section>
+
+        <!-- Invited Speakers Section -->
+        <section id="speakers">
+            <h2 class="mb-4">Invited Speakers</h2>
+            <p class="lead">We are looking forward to hosting an exciting set of invited speakers from diverse research backgrounds!</p>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card speaker-card">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://www.cbrinton.net/" target="_blank" class="no-underline">Christopher G. Brinton</a></h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Associate Professor at Purdue University</h6>
+                            <p class="card-text"><strong>Topic area:</strong> Agentic workflows on the network edge</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="card speaker-card">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://users.ece.cmu.edu/~yuejiec/" target="_blank" class="no-underline">Yuejie Chi</a></h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Professor at Carnegie Mellon University</h6>
+                            <p class="card-text"><strong>Topic area:</strong> Reinforcement learning for agentic workflows</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="card speaker-card">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://jafermarq.com/" target="_blank" class="no-underline">Javier Fernandez-Marques</a></h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Research Scientist at Flower Labs</h6>
+                            <p class="card-text"><strong>Topic area:</strong> Federated learning and hardware-aware optimizations</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="card speaker-card">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://www.autonomousagents.stanford.edu/" target="_blank" class="no-underline">Nick Haber</a></h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Assistant Professor at Stanford University</h6>
+                            <p class="card-text"><strong>Topic area:</strong> Human & AI-agent interactions and reasoning in LLMs</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="card speaker-card">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://aviralkumar2907.github.io/" target="_blank" class="no-underline">Aviral Kumar</a></h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Researcher at Google DeepMind, Assistant Professor at Carnegie Mellon University</h6>
+                            <p class="card-text"><strong>Topic area:</strong> Online reinforcement learning for agentic workflows</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="card speaker-card">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://homes.cs.washington.edu/~niloofar/" target="_blank" class="no-underline">Niloofar Mireshghallah</a></h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Postdoctoral Scholar at the University of Washington</h6>
+                            <p class="card-text"><strong>Topic area:</strong> Safety and security of agentic workflows</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="card speaker-card">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://www.linkedin.com/in/chi-wang-autogen/" target="_blank" class="no-underline">Chi Wang</a></h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Senior Staff Research Scientist at Google DeepMind</h6>
+                            <p class="card-text"><strong>Topic area:</strong> Building AI agents and facilitating their collaboration to solve tasks</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="card speaker-card">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://sites.google.com/site/hanyushomepage/home" target="_blank" class="no-underline">Han Yu</a></h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Associate Professor at Nanyang Technological University</h6>
+                            <p class="card-text"><strong>Topic area:</strong> Federated learning and agentic workflows</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Organizing Team Section -->
+        <section id="team">
+            <h2 class="mb-4">Organizing Team</h2>
+
+            <div class="row row-cols-1 row-cols-md-2 g-4">
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="row g-0 h-100">
+                            <div class="col-md-4 d-flex align-items-center justify-content-center">
+                                <img src="static/organizers/alex_erben.jpeg" class="img-fluid rounded-start p-2" alt="Alexander Erben">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body d-flex flex-column h-100 justify-content-center">
+                                    <h5 class="card-title"><a href="https://www.linkedin.com/in/alexandererben/" target="_blank" class="no-underline">Alexander Erben</a></h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">EpochAI, USA</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="row g-0 h-100">
+                            <div class="col-md-4 d-flex align-items-center justify-content-center">
+                                <img src="static/organizers/gauri_joshi-min.png" class="img-fluid rounded-start p-2" alt="Gauri Joshi">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body d-flex flex-column h-100 justify-content-center">
+                                    <h5 class="card-title"><a href="https://www.andrew.cmu.edu/user/gaurij/" target="_blank" class="no-underline">Gauri Joshi</a></h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Carnegie Mellon University, USA</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="row g-0 h-100">
+                            <div class="col-md-4 d-flex align-items-center justify-content-center">
+                                <img src="static/organizers/nic-lane-square.jpg" class="img-fluid rounded-start p-2" alt="Nicholas D. Lane">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body d-flex flex-column h-100 justify-content-center">
+                                    <h5 class="card-title"><a href="https://mlsys.cst.cam.ac.uk/" target="_blank" class="no-underline">Nicholas D. Lane</a></h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">University of Cambridge, UK</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="row g-0 h-100">
+                            <div class="col-md-4 d-flex align-items-center justify-content-center">
+                                <img src="static/organizers/huan_sun.png" class="img-fluid rounded-start p-2" alt="Huan Sun">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body d-flex flex-column h-100 justify-content-center">
+                                    <h5 class="card-title"><a href="https://cse.osu.edu/people/sun.397" target="_blank" class="no-underline">Huan Sun</a></h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">The Ohio State University, USA</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="row g-0 h-100">
+                            <div class="col-md-4 d-flex align-items-center justify-content-center">
+                                <img src="static/organizers/shiqiang_wang.jpg" class="img-fluid rounded-start p-2" alt="Shiqiang Wang">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body d-flex flex-column h-100 justify-content-center">
+                                    <h5 class="card-title"><a href="https://shiqiang.wang/" target="_blank" class="no-underline">Shiqiang Wang</a></h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">IBM Research, USA</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="row g-0 h-100">
+                            <div class="col-md-4 d-flex align-items-center justify-content-center">
+                                <img src="static/organizers/herbert_woisetschlaeger.jpeg" class="img-fluid rounded-start p-2" alt="Herbert Woisetschläger">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body d-flex flex-column h-100 justify-content-center">
+                                    <h5 class="card-title"><a href="https://www.linkedin.com/in/hwoisetschlaeger/" target="_blank" class="no-underline">Herbert Woisetschläger</a></h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Technical University of Munich, Germany</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="reviewers">
+            <h2 class="mb-4">Program Committee</h2>
+            <p>Coming soon!</p>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-light py-4 mt-5">
+        <div class="container">
+            <div class="text-center">
+                <p>&copy; 2025 Workshop on Collaborative and Federated Agentic Workflows (CFAgentic @ ICML'25) Organizers. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
