@@ -212,7 +212,7 @@ in LLMs, VLMs, diffusion models</li>
     </a>
     <div class="people-name">
       <a href="http://www.yliuu.com/">Yang Liu</a>
-      <h6>Assistant Professor (UCSC)</h6>
+      <h6>Assistant Professor (University of California, Santa Cruz)</h6>
     </div>
   </div>
 </div>
