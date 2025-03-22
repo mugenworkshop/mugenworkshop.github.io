@@ -120,7 +120,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </a>
     <div class="people-name">
       <a href="https://lsjxjtu.github.io/">Sijia Liu</a>
-      <h6>UIUC </h6>
+      <h6>Michigan State University </h6>
       <h6>(Literature-based Discovery)</h6>
     </div>
   </div>
