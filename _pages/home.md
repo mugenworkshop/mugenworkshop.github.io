@@ -188,7 +188,7 @@ in LLMs, VLMs, diffusion models</li>
 
 <div class="container-fluid">
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-8 col-lg-4">
     <a href="https://vaidehi99.github.io/">
       <img class="people-pic" src="static/img/people/vaidehi1.JPG">
     </a>
@@ -197,7 +197,7 @@ in LLMs, VLMs, diffusion models</li>
       <h6>PhD student (UNC Chapel Hill)</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-8 col-lg-4">
     <a href="https://scholar.google.com/citations?user=fGeEmLQAAAAJ&hl=en">
       <img class="people-pic" src="https://pbs.twimg.com/profile_images/1547962289713606661/Gnhg-wAx_400x400.jpg">
     </a>
@@ -206,7 +206,7 @@ in LLMs, VLMs, diffusion models</li>
       <h6>Research Scientist (Center for AI Safety)</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-8 col-lg-4">
     <a href="http://www.yliuu.com/">
       <img class="people-pic" src="http://news.ucsc.edu/2021/02/images/yang-liu-350.jpg">
     </a>
@@ -218,7 +218,7 @@ in LLMs, VLMs, diffusion models</li>
 </div>
 
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-8 col-lg-4">
     <a href="https://katelee168.github.io/">
       <img class="people-pic" src="https://katelee168.github.io/images/katherine-300x300.jpg">
     </a>
@@ -227,7 +227,7 @@ in LLMs, VLMs, diffusion models</li>
       <h6>Senior Research Scientist (Google DeepMind)</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-8 col-lg-4">
     <a href="https://www.cs.unc.edu/~mbansal/">
       <img class="people-pic" src="https://www.cs.unc.edu/~mbansal/images/mohitbansal2025.png">
     </a>
@@ -236,7 +236,7 @@ in LLMs, VLMs, diffusion models</li>
       <h6>Distinguished Professor (UNC Chapel Hill)</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-8 col-lg-4">
     <a href="https://aisecure.github.io/">
       <img class="people-pic" src="https://aisecure.github.io/files/bo_li_headshot.jpg">
     </a>
