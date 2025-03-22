@@ -190,7 +190,7 @@ in LLMs, VLMs, diffusion models</li>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://vaidehi99.github.io/">
-      <img class="people-pic" src="static/img/people/vaidehi1.JPG">
+      <img class="people-pic" src="static/img/people/vaidehi2.JPG">
     </a>
     <div class="people-name">
       <a href="https://vaidehi99.github.io/">Vaidehi Patil</a>
