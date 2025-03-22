@@ -126,7 +126,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://afedercooper.info/">
-      <img class="people-pic" src="https://afedercooper.info/hiking-2.jpg">
+      <img class="people-pic" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2024/09/cooper_photo.jpg">
     </a>
     <div class="people-name">
       <a href="https://afedercooper.info/">A. Feder Cooper</a>
@@ -190,7 +190,7 @@ in LLMs, VLMs, diffusion models</li>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://vaidehi99.github.io/">
-      <img class="people-pic" src="https://vaidehi99.github.io/authors/admin/avatar_hud6ab55a128a9e9d7ed1af4a13816181b_1240611_270x270_fill_q75_lanczos_center.jpg">
+      <img class="people-pic" src="static/img/people/vaidehi.JPG">
     </a>
     <div class="people-name">
       <a href="https://vaidehi99.github.io/">Vaidehi Patil</a>
