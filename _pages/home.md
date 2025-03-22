@@ -24,8 +24,6 @@ acknowledgements: ""
 
 <div class="row">
     <div class="col-xs-12">
-        <h1>Generative AI and Unlearning</h1>
-
     <p>
         Generative AI models are trained on internet-scale datasets, yielding powerful capabilities but also introducing risks like 
         copyright infringement, PII leakage, and harmful knowledge. Targeted removal or unlearning of sensitive data is challenging, 
@@ -121,16 +119,17 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We welcome submissions on all topics related to AI and Scientific Discovery including but not limited to: <br>
+      We welcome submissions on all topics related to Machine unlearning and Generative AI including but not limited to: <br>
       <ul>
-      <li> Literature-based Discovery</li>
-        <li>Agent-centered Approaches </li>
-        <li>Automated Experiment Execution </li>
-        <li>Automated Replication </li>
-        <li>Data-driven Discovery </li>
-        <li>Discovery in Virtual Environments </li>
-        <li>Discovery with Humans in the Loop</li>
-        <li>Assistants for Scientific Writing</li>
+      <li> Problem formulations for machine unlearning</li>
+        <li>Developing standardized evaluation frameworks for robust unlearning </li>
+        <li>Unlearning copyrighted data, PII, or potentially hazardous knowledge (e.g. synthetic biology, chemistry)
+in LLMs, VLMs, diffusion models</li>
+        <li>Advancing theoretical foundations to support unlearning in large-scale applications</li>
+        <li>Unlearning that cannot be easily reversed by fine-tuning attacks</li>
+        <li>Model editing to alter or remove specific learned concepts and robustness </li>
+        <li>Benchmarks and datasets for unlearning and model editing/li>
+        <li>Differential privacy and unlearning, Exact unlearning</li>
       </ul>
     </p>
   </div>
@@ -145,59 +144,59 @@ These recent developments highlight the possibility of rapidly accelerating the 
 
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://erichorvitz.com/">
-      <img class="people-pic" src="https://erichorvitz.com/Eric_Horvitz_frame_2020.jpg">
+    <a href="https://vaidehi99.github.io/">
+      <img class="people-pic" src="https://vaidehi99.github.io/authors/admin/avatar_hud6ab55a128a9e9d7ed1af4a13816181b_1240611_270x270_fill_q75_lanczos_center.jpg">
     </a>
     <div class="people-name">
-      <a href="https://erichorvitz.com/">Eric Horvitz</a>
-      <h6>Chief Scientific Officer (Microsoft)</h6>
+      <a href="https://vaidehi99.github.io/">Vaidehi Patil</a>
+      <h6>PhD student (UNC Chapel Hill)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://users.cs.northwestern.edu/~ddowney/">
-      <img class="people-pic" src="https://cdn.prod.website-files.com/605ba9b55a4a92803e45a32b/622298105eaf6064feda8491_doug-downey.jpeg">
+    <a href="https://scholar.google.com/citations?user=fGeEmLQAAAAJ&hl=en">
+      <img class="people-pic" src="https://pbs.twimg.com/profile_images/1547962289713606661/Gnhg-wAx_400x400.jpg">
     </a>
     <div class="people-name">
-      <a href="https://users.cs.northwestern.edu/~ddowney/">Doug Downey</a>
-      <h6>Director of Semantic Scholar(Ai2)</h6>
+      <a href="https://scholar.google.com/citations?user=fGeEmLQAAAAJ&hl=en">Mantas Mazeika</a>
+      <h6>Research Scientist (Center for AI Safety)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://tomhoper.github.io/">
-      <img class="people-pic" src="https://tomhoper.github.io//images/profile.png">
+    <a href="http://www.yliuu.com/">
+      <img class="people-pic" src="http://www.yliuu.com/images/profile-YL.jpeg">
     </a>
     <div class="people-name">
-      <a href="https://tomhoper.github.io/">Tom Hope</a>
-      <h6>Asst. Professor (HUJI) <br/>Research Scientist (Ai2)</h6>
+      <a href="http://www.yliuu.com/">Yang Liu</a>
+      <h6>Asst. Professor (UCSC)</h6>
     </div>
   </div>
  <div class="col-xs-6 col-lg-3">
-    <a href="https://tusharkhot.github.io/">
-      <img class="people-pic" src="https://tusharkhot.github.io/images/ai2_profile.jpeg">
+    <a href="https://katelee168.github.io/">
+      <img class="people-pic" src="https://katelee168.github.io/images/katherine-300x300.jpg">
     </a>
     <div class="people-name">
-      <a href="https://tusharkhot.github.io/">Tushar Khot</a>
-      <h6>Lead Research Scientist (Ai2)</h6>
+      <a href="https://katelee168.github.io/">Katherine Lee</a>
+      <h6>Senior Research Scientist (Google DeepMind)</h6>
     </div>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://allenai.org/team/bhavanad/">
-      <img class="people-pic" src="https://images.ctfassets.net/wf5t1ptx352c/6W6eEkb6MMkoU8gYM8CWgW/d2f1d7519f70705caef84f2a5b1af39b/Bhavana-Dalvi.jpg">
+    <a href="https://www.cs.unc.edu/~mbansal/">
+      <img class="people-pic" src="https://www.cs.unc.edu/~mbansal/images/mohitbansal2025.png">
     </a>
     <div class="people-name">
-      <a href="https://allenai.org/team/bhavanad/">Bhavana Dalvi Mishra</a>
-      <h6>Lead Research Scientist (Ai2)</h6>
+      <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>
+      <h6>Distinguished Professor (UNC Chapel Hill)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.majumderb.com/">
-      <img class="people-pic" src="https://www.majumderb.com/bodhi.jpg">
+    <a href="https://aisecure.github.io/">
+      <img class="people-pic" src="https://aisecure.github.io/files/bo_li_headshot.jpg">
     </a>
     <div class="people-name">
-      <a href="https://www.majumderb.com/">Bodhisattwa Prasad Majumder</a>
-      <h6>Research Scientist (Ai2)</h6>
+      <a href="https://aisecure.github.io/">Bo Li</a>
+      <h6>Associate Professor (University of Chicago)</h6>
     </div>
   </div>
     <div class="col-xs-6 col-lg-3">
