@@ -142,6 +142,8 @@ in LLMs, VLMs, diffusion models</li>
   </div>
 </div>
 
+
+<div class="container-fluid">
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://vaidehi99.github.io/">
@@ -178,8 +180,8 @@ in LLMs, VLMs, diffusion models</li>
       <img class="people-pic" src="https://katelee168.github.io/images/katherine-300x300.jpg">
     </a>
     <div class="people-name">
-      <a href="https://katelee168.github.io/">Harsh Trivedi</a>
-      <h6>Stony Brook University</h6>
+      <a href="https://katelee168.github.io/">Katherine Lee</a>
+      <h6>Senior Research Scientist (Google DeepMind)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -201,6 +203,8 @@ in LLMs, VLMs, diffusion models</li>
     </div>
   </div>
 </div>
+</div>
+
 <hr />
 
 
