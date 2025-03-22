@@ -2,9 +2,7 @@
 <div class="navbar navbar-default navbar-fixed-top" id="navbar-container">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="/">
-        <img src="static/img/people/ICML-logo.svg" alt="Logo" style="height: 40px;"> <!-- Optional logo -->
-      </a>
+      <a class="navbar-brand" href="/"></a>
       <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -27,9 +25,9 @@
 <!-- Title Section -->
 <div class="row" id="title">
   <div class="col-xs-12 text-center">
-    <h1 class="workshop-title">Machine Unlearning for Generative AI Workshop</h1>
-    <h2 class="event-location">ICML 2025 @ Vancouver, Canada</h2>
-    <h3 class="event-date">July 18, 2025</h3>
+    <h1>Machine Unlearning for Generative AI Workshop</h1>
+    <h2>ICML 2025 @ Vancouver, Canada</h2>
+    <h2>July 18, 2025</h2>
   </div>
 </div>
 
@@ -37,16 +35,9 @@
 <style>
   /* Navbar Styling */
   #navbar-container {
-    background-color: #f8f9fa; /* Lighter background color */
+    background-color: #f8f9fa; /* Light background */
     border-bottom: 1px solid #ddd; /* Subtle border */
-    margin-bottom: 0; /* Reduce space below navbar */
-  }
-
-  .navbar-brand {
-    font-family: 'Montserrat', sans-serif;
-    color: #333;
-    font-weight: bold;
-    font-size: 1.5em;
+    padding: 10px 0; /* Ensure no extra margins */
   }
 
   .navbar-nav li a {
@@ -62,36 +53,31 @@
 
   /* Title Section */
   #title {
-    margin-top: 80px; /* Adjusted to fit under navbar */
     text-align: center;
+    padding: 20px 0;
   }
 
-  .workshop-title {
+  h1 {
     font-family: 'Roboto', sans-serif;
-    font-size: 3.5em;
+    font-size: 3em;
     color: #333;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
 
-  .event-location {
+  h2 {
     font-family: 'Lora', serif;
     font-size: 1.5em;
     color: #777;
     margin-bottom: 5px;
   }
 
-  .event-date {
-    font-size: 1.2em;
-    color: #555;
-  }
-  
-  /* Media Queries for mobile responsiveness */
+  /* Mobile Adjustments */
   @media (max-width: 768px) {
     .navbar-nav li a {
       font-size: 1em;
     }
 
-    .workshop-title {
+    h1 {
       font-size: 2.5em;
     }
   }
