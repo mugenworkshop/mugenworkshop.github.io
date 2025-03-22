@@ -77,7 +77,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </a>
     <div class="people-name">
       <a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a>
-      <h6>UIUC </h6>
+      <h6>Center for AI Safety </h6>
       <h6>(Literature-based Discovery)</h6>
     </div>
   </div>
@@ -86,7 +86,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
       <img class="people-pic" src="https://smehnaz.github.io/wp-content/uploads/2020/10/2020-08-13_1-768x872.jpeg">
     </a>
     <div class="people-name">
-      <a href="https://smehnaz.github.io/">Shagufta Mehnaz</a>
+      <a href="https://smehnaz.github.io/">Pennsylvania State University</a>
       <h6>Ai2 </h6>
       <h6>(Automated Research Assistants)</h6>
     </div>
@@ -97,7 +97,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </a>
     <div class="people-name">
       <a href="https://peterbhase.github.io/">Peter Hase</a>
-      <h6>Harvard University</h6>
+      <h6>Anthropic</h6>
       <h6>(Interpretable Drug Discovery)</h6>
     </div>
   </div>
@@ -110,7 +110,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </a>
     <div class="people-name">
       <a href="https://elenitriantafillou.github.io/">Eleni Triantafillou</a>
-      <h6> Georgia Institute of Technology </h6>
+      <h6> Google DeepMind </h6>
       <h6>(MLAgentBench/Automated NLP)</h6>
     </div>
   </div>
@@ -130,7 +130,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </a>
     <div class="people-name">
       <a href="https://afedercooper.info/">A. Feder Cooper</a>
-      <h6>Ai2 </h6>
+      <h6>Microsoft Research, (Incoming) Yale University </h6>
       <h6>(Automated Research Assistants)</h6>
     </div>
   </div>
@@ -140,7 +140,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </a>
     <div class="people-name">
       <a href="https://www.law.wvu.edu/faculty-staff/faculty-information/amy-cyphert">Amy Cyphert</a>
-      <h6>Harvard University</h6>
+      <h6>West Virginia University</h6>
       <h6>(Interpretable Drug Discovery)</h6>
     </div>
   </div>
@@ -212,7 +212,7 @@ in LLMs, VLMs, diffusion models</li>
     </a>
     <div class="people-name">
       <a href="http://www.yliuu.com/">Yang Liu</a>
-      <h6>Asst. Professor (UCSC)</h6>
+      <h6>Assistant Professor (UCSC)</h6>
     </div>
   </div>
 </div>
