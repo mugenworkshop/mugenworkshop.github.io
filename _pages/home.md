@@ -62,11 +62,11 @@ These recent developments highlight the possibility of rapidly accelerating the 
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://cs.stanford.edu/people/jure/">
-      <img class="people-pic" src="https://cs.stanford.edu/people/jure/images/jure-2b.jpg">
+    <a href="https://www.cc.gatech.edu/people/ling-liu">
+      <img class="people-pic" src="https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-02/ling_liu_0.png">
     </a>
     <div class="people-name">
-      <a href="https://cs.stanford.edu/people/jure/">Jure Leskovec</a>
+      <a href="https://www.cc.gatech.edu/people/ling-liu">Ling Liu</a>
       <h6>Stanford University </h6>
       <h6>(MLAgentBench/Automated NLP)</h6>
     </div>
@@ -163,7 +163,7 @@ in LLMs, VLMs, diffusion models</li>
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="http://www.yliuu.com/">
-      <img class="people-pic" src="http://www.yliuu.com/images/profile-YL.jpeg">
+      <img class="people-pic" src="http://news.ucsc.edu/2021/02/images/yang-liu-350.jpg">
     </a>
     <div class="people-name">
       <a href="http://www.yliuu.com/">Yang Liu</a>
@@ -173,24 +173,6 @@ in LLMs, VLMs, diffusion models</li>
 </div>
 
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cs.unc.edu/~mbansal/">
-      <img class="people-pic" src="https://www.cs.unc.edu/~mbansal/images/mohitbansal2025.png">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>
-      <h6>Distinguished Professor (UNC Chapel Hill)</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://aisecure.github.io/">
-      <img class="people-pic" src="https://aisecure.github.io/files/bo_li_headshot.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://aisecure.github.io/">Bo Li</a>
-      <h6>Associate Professor (University of Chicago)</h6>
-    </div>
-  </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://katelee168.github.io/">
       <img class="people-pic" src="https://katelee168.github.io/images/katherine-300x300.jpg">
@@ -200,59 +182,6 @@ in LLMs, VLMs, diffusion models</li>
       <h6>Stony Brook University</h6>
     </div>
   </div>
-</div>
-<hr />
-
-
-
-
-<!-- <hr />
-<!-- Organizers -->
-<div class="row" id="organizers">
-  <div class="col-xs-12">
-    <h2>Organizers</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://vaidehi99.github.io/">
-      <img class="people-pic" src="https://vaidehi99.github.io/authors/admin/avatar_hud6ab55a128a9e9d7ed1af4a13816181b_1240611_270x270_fill_q75_lanczos_center.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://vaidehi99.github.io/">Vaidehi Patil</a>
-      <h6>PhD student (UNC Chapel Hill)</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://scholar.google.com/citations?user=fGeEmLQAAAAJ&hl=en">
-      <img class="people-pic" src="https://pbs.twimg.com/profile_images/1547962289713606661/Gnhg-wAx_400x400.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://scholar.google.com/citations?user=fGeEmLQAAAAJ&hl=en">Mantas Mazeika</a>
-      <h6>Research Scientist (Center for AI Safety)</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://www.yliuu.com/">
-      <img class="people-pic" src="http://www.yliuu.com/images/profile-YL.jpeg">
-    </a>
-    <div class="people-name">
-      <a href="http://www.yliuu.com/">Yang Liu</a>
-      <h6>Asst. Professor (UCSC)</h6>
-    </div>
-  </div>
- <div class="col-xs-6 col-lg-3">
-    <a href="https://katelee168.github.io/">
-      <img class="people-pic" src="https://katelee168.github.io/images/katherine-300x300.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://katelee168.github.io/">Katherine Lee</a>
-      <h6>Senior Research Scientist (Google DeepMind)</h6>
-    </div>
-  </div>
-</div>
-<div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.cs.unc.edu/~mbansal/">
       <img class="people-pic" src="https://www.cs.unc.edu/~mbansal/images/mohitbansal2025.png">
@@ -271,26 +200,11 @@ in LLMs, VLMs, diffusion models</li>
       <h6>Associate Professor (University of Chicago)</h6>
     </div>
   </div>
-    <div class="col-xs-6 col-lg-3">
-    <a href="https://harshtrivedi.me/">
-      <img class="people-pic" src="https://harshtrivedi.me/resources/another-profile.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://harshtrivedi.me/">Harsh Trivedi</a>
-      <h6>Stony Brook University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://cognitiveai.org/">
-      <img class="people-pic" src="http://cognitiveai.org/wp-content/uploads/2016/10/peter_tedx-300x300.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://cognitiveai.org/">Peter Jansen</a>
-      <h6>Assoc. Prof. (University of Arizona)</h6>
-    </div>
-  </div>
 </div>
- <hr />  -->
+<hr />
+
+
+
 
 <!-- Submission -->
 <div class="row" id="guidelines">
