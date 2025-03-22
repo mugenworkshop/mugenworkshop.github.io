@@ -20,35 +20,25 @@ acknowledgements: ""
 </div> -->
 
 <br />
-<br>**Registration**: <a href="https://icml.cc/Register2/">Please refer to ICML 2025 registration website</a>
+<br>**Registration**: [Please refer to ICML 2025 registration website](https://icml.cc/Register2/)  
 
-<div class="row">
-    <div class="col-xs-12">
-    <p>
-        Generative AI models are trained on internet-scale datasets, yielding powerful capabilities but also introducing risks like 
-        copyright infringement, PII leakage, and harmful knowledge. Targeted removal or unlearning of sensitive data is challenging, 
-        as retraining on curated sets is computationally expensive, driving research into machine unlearning and model editing. 
-        Yet approaches like RLHF only suppress undesirable outputs, leaving underlying knowledge vulnerable to adversarial extraction. 
-        This raises urgent privacy, security, and legal concerns, especially under the EU’s GDPR “right to be forgotten”. 
-        Because neural networks encode information across millions of parameters, precise deletion without degrading performance is complex, 
-        and adversarial or whitebox attacks can recover ostensibly erased data.
-        This workshop brings together experts in AI safety, privacy, and policy to advance robust, verifiable unlearning methods, 
-        standardized evaluation frameworks, and theoretical foundations. By achieving true erasure, we aim to ensure AI can ethically 
-        and legally forget sensitive data while preserving broader utility.
-    </p>
+<div class="row">  
+   <div class="col-xs-12">  
+   <p>  
+       Generative AI models are trained on internet-scale datasets, yielding powerful capabilities but also introducing risks like  
+       copyright infringement, PII leakage, and harmful knowledge. Targeted removal or unlearning of sensitive data is challenging,  
+       as retraining on curated sets is computationally expensive, driving research into machine unlearning and model editing.  
+       Yet approaches like RLHF only suppress undesirable outputs, leaving underlying knowledge vulnerable to adversarial extraction.  
+       This raises urgent privacy, security, and legal concerns, especially under the EU’s GDPR “right to be forgotten”.  
+       Because neural networks encode information across millions of parameters, precise deletion without degrading performance is complex,  
+       and adversarial or whitebox attacks can recover ostensibly erased data.  
 
-  
-<!-- <p>
-Historically, major results in AI and scientific discovery have been restricted to problem-specific methods—such as DeepMind AlphaFold and RosettaFold, which are systems specifically designed for protein folding, or multistage discovery pipelines designed for use in identification of novel materials. Over the last year, language models are being used to create problem-general scientific discovery assistants that are not restricted to narrow problem domains or formulations. Such applications hold opportunity for assisting researchers in broad domains, or scientific reasoning more generally. Beyond providing assistance, a growing body of work has begun to focus on the prospect of creating largely autonomous scientific discovery agents that can make novel discoveries with minimal human intervention.</p>
-<p>
-
-We have also observed rising interest in evaluating systems that help with or perform scientific discovery. Difficulties with evaluation persist; as novel scientific discoveries (by definition) haven't been made yet, it is hard to formulate and evaluate a benchmark that provides insights about valuable machine-generated contributions that boost the discovery process. The community has begun to answer this with benchmarks focused on facets of the discovery process, such as data-driven discovery, experiment replication, reviewing, idea generation, or proxy tasks such as end-to-end discovery in virtual environments, all of which begin to address the challenges of evaluating progress towards generating novel discoveries.</p>
-<p>
-
-These recent developments highlight the possibility of rapidly accelerating the pace of scientific discovery in the near term. Given the influx of researchers into this expanding field, this workshop proposes to serve as a vehicle for bringing together a diverse set of perspectives from this quickly expanding subfield, helping to disseminate the latest results, standardize evaluation, foster collaboration between groups, and allow discussing aspirational goals for 2025 and beyond.
-        </p> -->
-    </div>
-</div>
+       This workshop brings together experts in AI safety, privacy, and policy to advance robust, verifiable unlearning methods,  
+       standardized evaluation frameworks, and theoretical foundations. By achieving true erasure, we aim to ensure AI can ethically  
+       and legally forget sensitive data while preserving broader utility.  
+   </p>  
+   </div>  
+</div>  
 
 <br />
 
