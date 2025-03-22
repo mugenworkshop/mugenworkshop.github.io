@@ -57,7 +57,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <!-- Speakers -->
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Speakers</h2>
+    <h2>Speakers & Panelists</h2>
   </div>
 </div>
 <div class="row">
@@ -105,41 +105,41 @@ These recent developments highlight the possibility of rapidly accelerating the 
 
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cc.gatech.edu/people/ling-liu">
-      <img class="people-pic" src="https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-02/ling_liu_0.png">
+    <a href="https://elenitriantafillou.github.io/">
+      <img class="people-pic" src="https://elenitriantafillou.github.io/imgs/eleni_pic.jpg">
     </a>
     <div class="people-name">
-      <a href="https://www.cc.gatech.edu/people/ling-liu">Ling Liu</a>
+      <a href="https://elenitriantafillou.github.io/">Eleni Triantafillou</a>
       <h6> Georgia Institute of Technology </h6>
       <h6>(MLAgentBench/Automated NLP)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://people.eecs.berkeley.edu/~hendrycks/">
-      <img class="people-pic" src="https://people.eecs.berkeley.edu/~hendrycks/me_2018_high_def.JPG">
+    <a href="https://lsjxjtu.github.io/">
+      <img class="people-pic" src="https://lsjxjtu.github.io/images/sijia.png">
     </a>
     <div class="people-name">
-      <a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a>
+      <a href="https://lsjxjtu.github.io/">Sijia Liu</a>
       <h6>UIUC </h6>
       <h6>(Literature-based Discovery)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://smehnaz.github.io/">
-      <img class="people-pic" src="https://smehnaz.github.io/wp-content/uploads/2020/10/2020-08-13_1-768x872.jpeg">
+    <a href="https://afedercooper.info/">
+      <img class="people-pic" src="https://afedercooper.info/hiking-2.jpg">
     </a>
     <div class="people-name">
-      <a href="https://smehnaz.github.io/">Shagufta Mehnaz</a>
+      <a href="https://afedercooper.info/">A. Feder Cooper</a>
       <h6>Ai2 </h6>
       <h6>(Automated Research Assistants)</h6>
     </div>
   </div>
     <div class="col-xs-6 col-lg-3">
-    <a href="https://peterbhase.github.io/">
-      <img class="people-pic" src="https://peterbhase.github.io/images/square-1-under-1-mb.jpg">
+    <a href="https://www.law.wvu.edu/faculty-staff/faculty-information/amy-cyphert">
+      <img class="people-pic" src="https://csassets.static.wvu.edu/nksr1a/63c21eeb-776e-4000-98ac-2bc6061f53b1/690d1bfc34db776b2323ccf6f962e45b/2017-18%20Cyphert_Amy%20Web-288x384.jpg">
     </a>
     <div class="people-name">
-      <a href="https://peterbhase.github.io/">Peter Hase</a>
+      <a href="https://www.law.wvu.edu/faculty-staff/faculty-information/amy-cyphert">Amy Cyphert</a>
       <h6>Harvard University</h6>
       <h6>(Interpretable Drug Discovery)</h6>
     </div>
