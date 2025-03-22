@@ -67,36 +67,79 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </a>
     <div class="people-name">
       <a href="https://www.cc.gatech.edu/people/ling-liu">Ling Liu</a>
-      <h6>Stanford University </h6>
+      <h6> Georgia Institute of Technology </h6>
       <h6>(MLAgentBench/Automated NLP)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://blender.cs.illinois.edu/hengji.html">
-      <img class="people-pic" src="/static/img/people/heng_ji.jpg">
+    <a href="https://people.eecs.berkeley.edu/~hendrycks/">
+      <img class="people-pic" src="https://people.eecs.berkeley.edu/~hendrycks/me_2018_high_def.JPG">
     </a>
     <div class="people-name">
-      <a href="https://blender.cs.illinois.edu/hengji.html">Heng Ji</a>
+      <a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a>
       <h6>UIUC </h6>
       <h6>(Literature-based Discovery)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://pclark425.github.io/">
-      <img class="people-pic" src="https://pclark425.github.io/images/Peter_Clark.jpg">
+    <a href="https://smehnaz.github.io/">
+      <img class="people-pic" src="https://smehnaz.github.io/wp-content/uploads/2020/10/2020-08-13_1-768x872.jpeg">
     </a>
     <div class="people-name">
-      <a href="https://pclark425.github.io/">Peter Clark</a>
+      <a href="https://smehnaz.github.io/">Shagufta Mehnaz</a>
       <h6>Ai2 </h6>
       <h6>(Automated Research Assistants)</h6>
     </div>
   </div>
     <div class="col-xs-6 col-lg-3">
-    <a href="https://zitniklab.hms.harvard.edu/">
-      <img class="people-pic" src="https://zitniklab.hms.harvard.edu/img/marinka_zitnik.png">
+    <a href="https://peterbhase.github.io/">
+      <img class="people-pic" src="https://peterbhase.github.io/images/square-1-under-1-mb.jpg">
     </a>
     <div class="people-name">
-      <a href="https://zitniklab.hms.harvard.edu/">Marinka Zitnik</a>
+      <a href="https://peterbhase.github.io/">Peter Hase</a>
+      <h6>Harvard University</h6>
+      <h6>(Interpretable Drug Discovery)</h6>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.cc.gatech.edu/people/ling-liu">
+      <img class="people-pic" src="https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-02/ling_liu_0.png">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cc.gatech.edu/people/ling-liu">Ling Liu</a>
+      <h6> Georgia Institute of Technology </h6>
+      <h6>(MLAgentBench/Automated NLP)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://people.eecs.berkeley.edu/~hendrycks/">
+      <img class="people-pic" src="https://people.eecs.berkeley.edu/~hendrycks/me_2018_high_def.JPG">
+    </a>
+    <div class="people-name">
+      <a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a>
+      <h6>UIUC </h6>
+      <h6>(Literature-based Discovery)</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://smehnaz.github.io/">
+      <img class="people-pic" src="https://smehnaz.github.io/wp-content/uploads/2020/10/2020-08-13_1-768x872.jpeg">
+    </a>
+    <div class="people-name">
+      <a href="https://smehnaz.github.io/">Shagufta Mehnaz</a>
+      <h6>Ai2 </h6>
+      <h6>(Automated Research Assistants)</h6>
+    </div>
+  </div>
+    <div class="col-xs-6 col-lg-3">
+    <a href="https://peterbhase.github.io/">
+      <img class="people-pic" src="https://peterbhase.github.io/images/square-1-under-1-mb.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://peterbhase.github.io/">Peter Hase</a>
       <h6>Harvard University</h6>
       <h6>(Interpretable Drug Discovery)</h6>
     </div>
