@@ -128,7 +128,7 @@ in LLMs, VLMs, diffusion models</li>
         <li>Advancing theoretical foundations to support unlearning in large-scale applications</li>
         <li>Unlearning that cannot be easily reversed by fine-tuning attacks</li>
         <li>Model editing to alter or remove specific learned concepts and robustness </li>
-        <li>Benchmarks and datasets for unlearning and model editing/li>
+        <li>Benchmarks and datasets for unlearning and model editing</li>
         <li>Differential privacy and unlearning, Exact unlearning</li>
       </ul>
     </p>
