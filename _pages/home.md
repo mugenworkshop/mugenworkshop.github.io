@@ -166,8 +166,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
       <ul>
       <li> Problem formulations for machine unlearning</li>
         <li>Developing standardized evaluation frameworks for robust unlearning </li>
-        <li>Unlearning copyrighted data, PII, or potentially hazardous knowledge (e.g. synthetic biology, chemistry)
-in LLMs, VLMs, diffusion models</li>
+        <li>Unlearning copyrighted data, PII, or potentially hazardous knowledge in LLMs, VLMs, diffusion models</li>
         <li>Advancing theoretical foundations to support unlearning in large-scale applications</li>
         <li>Unlearning that cannot be easily reversed by fine-tuning attacks</li>
         <li>Model editing to alter or remove specific learned concepts and robustness </li>
