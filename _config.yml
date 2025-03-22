@@ -1,9 +1,9 @@
-title: AI and Scientific Discovery Workshop
-description: Workshop on AI and Scientific Discovery
+title: Machine Unlearning for Generative AI Workshop
+description: Workshop on Machine Unlearning for Generative AI
   ---
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
 include: ['_pages']
-ga_id: UA-144588579-1
+ga_id: G-8N7LGBGL8R
