@@ -86,8 +86,8 @@ These recent developments highlight the possibility of rapidly accelerating the 
       <img class="people-pic" src="https://smehnaz.github.io/wp-content/uploads/2020/10/2020-08-13_1-768x872.jpeg">
     </a>
     <div class="people-name">
-      <a href="https://smehnaz.github.io/">Pennsylvania State University</a>
-      <h6>Ai2 </h6>
+      <a href="https://smehnaz.github.io/">Shagufta Mehnaz</a>
+      <h6>Pennsylvania State University </h6>
       <h6>(Automated Research Assistants)</h6>
     </div>
   </div>
