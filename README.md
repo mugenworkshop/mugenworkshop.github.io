@@ -1,4 +1,4 @@
-# ai-and-scientific-discovery.github.io
-Webpage source files for workshop "AI and Scientific Discovery: Directions and Opportunities"
+# mugenworkshop.github.io
+Webpage source files for workshop "Machine Unlearning for Generative AI"
 
-https://ai-and-scientific-discovery.github.io/
+https://mugenworkshop.github.io/
