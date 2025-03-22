@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "AI & Scientific Discovery Workshop"
-title: "AI & Scientific Discovery Workshop"
+urltitle:  "Machine Unlearning for Generative AI Workshop"
+title: "Machine Unlearning for Generative AI Workshop"
 categories: workshop
 permalink: /
 bibtex: true
@@ -20,13 +20,27 @@ acknowledgements: ""
 </div> -->
 
 <br />
-<br>**Registration**: <a href="https://2025.naacl.org/registration/registration/">Please refer to NAACL 2025 registration website</a>
+<br>**Registration**: <a href="https://icml.cc/Register2/">Please refer to ICML 2025 registration website</a>
 
 <div class="row">
     <div class="col-xs-12">
-        <p>
-          Just as coding assistants have dramatically increased productivity for coding tasks over the last two years, researchers in the NLP community have begun to explore methods and opportunities ahead for creating scientific assistants that can help with the process of scientific discovery and increase the pace at which novel discoveries are made.</p>
-<p>
+        <h1>Generative AI and Unlearning</h1>
+
+    <p>
+        Generative AI models are trained on internet-scale datasets, yielding powerful capabilities but also introducing risks like 
+        copyright infringement, PII leakage, and harmful knowledge. Targeted removal or unlearning of sensitive data is challenging, 
+        as retraining on curated sets is computationally expensive, driving research into machine unlearning and model editing. 
+        Yet approaches like RLHF only suppress undesirable outputs, leaving underlying knowledge vulnerable to adversarial extraction. 
+        This raises urgent privacy, security, and legal concerns, especially under the EU’s GDPR “right to be forgotten”. 
+        Because neural networks encode information across millions of parameters, precise deletion without degrading performance is complex, 
+        and adversarial or whitebox attacks can recover ostensibly erased data.
+        This workshop brings together experts in AI safety, privacy, and policy to advance robust, verifiable unlearning methods, 
+        standardized evaluation frameworks, and theoretical foundations. By achieving true erasure, we aim to ensure AI can ethically 
+        and legally forget sensitive data while preserving broader utility.
+    </p>
+
+  
+<!-- <p>
 Historically, major results in AI and scientific discovery have been restricted to problem-specific methods—such as DeepMind AlphaFold and RosettaFold, which are systems specifically designed for protein folding, or multistage discovery pipelines designed for use in identification of novel materials. Over the last year, language models are being used to create problem-general scientific discovery assistants that are not restricted to narrow problem domains or formulations. Such applications hold opportunity for assisting researchers in broad domains, or scientific reasoning more generally. Beyond providing assistance, a growing body of work has begun to focus on the prospect of creating largely autonomous scientific discovery agents that can make novel discoveries with minimal human intervention.</p>
 <p>
 
@@ -34,7 +48,7 @@ We have also observed rising interest in evaluating systems that help with or pe
 <p>
 
 These recent developments highlight the possibility of rapidly accelerating the pace of scientific discovery in the near term. Given the influx of researchers into this expanding field, this workshop proposes to serve as a vehicle for bringing together a diverse set of perspectives from this quickly expanding subfield, helping to disseminate the latest results, standardize evaluation, foster collaboration between groups, and allow discussing aspirational goals for 2025 and beyond.
-        </p>
+        </p> -->
     </div>
 </div>
 
