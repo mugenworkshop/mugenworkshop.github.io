@@ -29,7 +29,8 @@
         }
 
         .hero-section {
-            height: 33vh;
+            height: auto;
+            min-height: 33vh;
             background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('https://icml.cc/static/core/img/vancouver_convention_center.webp');
             background-size: cover;
             background-position: center;
@@ -39,6 +40,7 @@
             color: #333;
             text-shadow: 1px 1px 2px rgba(255,255,255,0.5);
             margin-top: 56px;
+            padding: 2rem 1rem;
         }
 
         .navbar {
@@ -62,6 +64,36 @@
         body {
             position: relative;
             padding-bottom: 2rem;
+        }
+
+        /* Responsive text for mobile screens */
+        @media (max-width: 768px) {
+            .hero-section h1 {
+                font-size: 1.75rem;
+            }
+
+            .hero-section h2 {
+                font-size: 1.5rem;
+            }
+
+            .hero-section .lead {
+                font-size: 1rem;
+            }
+
+            .hero-section img {
+                max-width: 150px;
+            }
+        }
+
+        /* Extra small screen adjustment */
+        @media (max-width: 576px) {
+            .hero-section h1 {
+                font-size: 1.5rem;
+            }
+
+            .hero-section h2 {
+                font-size: 1.25rem;
+            }
         }
     </style>
 </head>
