@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "Machine Unlearning for Generative AI Workshop"
-title: "Machine Unlearning for Generative AI Workshop"
+urltitle:  "Machine Unlearning for Generative AI Workshop (website in progress)"
+title: "Machine Unlearning for Generative AI Workshop (website in progress)"
 categories: workshop
 permalink: /
 bibtex: true
