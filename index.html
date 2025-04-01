@@ -277,14 +277,24 @@
         </section>
         
        <!-- Invited Speakers Section -->
-       <section id="speakers">
+       <style>
+        .speaker-img {
+            width: 100%;
+            height: 150px; /* Uniform height */
+            object-fit: cover; /* Ensures images are cropped instead of distorted */
+        }
+    </style>
+    
+    <section id="speakers">
         <h2 class="mb-4">Speakers and Panelists</h2>
         <div class="row row-cols-1 row-cols-md-2 g-4">
+    
+            <!-- Ling Liu -->
             <div class="col">
                 <div class="card h-100">
                     <div class="row g-0 h-100">
                         <div class="col-md-4 d-flex align-items-center justify-content-center">
-                            <img src="https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-02/ling_liu_0.png" class="img-fluid rounded-start p-2" alt="Ling Liu">
+                            <img src="https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-02/ling_liu_0.png" class="img-fluid rounded-start p-2 speaker-img" alt="Ling Liu">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body d-flex flex-column h-100 justify-content-center">
@@ -295,12 +305,13 @@
                     </div>
                 </div>
             </div>
-
+    
+            <!-- Shagufta Mehnaz -->
             <div class="col">
                 <div class="card h-100">
                     <div class="row g-0 h-100">
                         <div class="col-md-4 d-flex align-items-center justify-content-center">
-                            <img src="https://smehnaz.github.io/wp-content/uploads/2020/10/2020-08-13_1-768x872.jpeg" class="img-fluid rounded-start p-2" alt="Shagufta Mehnaz">
+                            <img src="https://smehnaz.github.io/wp-content/uploads/2020/10/2020-08-13_1-768x872.jpeg" class="img-fluid rounded-start p-2 speaker-img" alt="Shagufta Mehnaz">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body d-flex flex-column h-100 justify-content-center">
@@ -311,12 +322,13 @@
                     </div>
                 </div>
             </div>
-
+    
+            <!-- Sijia Liu -->
             <div class="col">
                 <div class="card h-100">
                     <div class="row g-0 h-100">
                         <div class="col-md-4 d-flex align-items-center justify-content-center">
-                            <img src="https://lsjxjtu.github.io/images/sijia.png" class="img-fluid rounded-start p-2" alt="Sijia Liu">
+                            <img src="https://lsjxjtu.github.io/images/sijia.png" class="img-fluid rounded-start p-2 speaker-img" alt="Sijia Liu">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body d-flex flex-column h-100 justify-content-center">
@@ -327,13 +339,13 @@
                     </div>
                 </div>
             </div>
-            
-            <!-- Repeating Last Two Organizers -->
+    
+            <!-- Eleni Triantafillou -->
             <div class="col">
                 <div class="card h-100">
                     <div class="row g-0 h-100">
                         <div class="col-md-4 d-flex align-items-center justify-content-center">
-                            <img src="https://elenitriantafillou.github.io/imgs/eleni_pic.jpg" class="img-fluid rounded-start p-2" alt="Shiqiang Wang">
+                            <img src="https://elenitriantafillou.github.io/imgs/eleni_pic.jpg" class="img-fluid rounded-start p-2 speaker-img" alt="Eleni Triantafillou">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body d-flex flex-column h-100 justify-content-center">
@@ -344,12 +356,13 @@
                     </div>
                 </div>
             </div>
-
+    
+            <!-- Peter Hase -->
             <div class="col">
                 <div class="card h-100">
                     <div class="row g-0 h-100">
                         <div class="col-md-4 d-flex align-items-center justify-content-center">
-                            <img src="https://peterbhase.github.io/images/square-1-under-1-mb.jpg" class="img-fluid rounded-start p-2" alt="Peter Hase">
+                            <img src="https://peterbhase.github.io/images/square-1-under-1-mb.jpg" class="img-fluid rounded-start p-2 speaker-img" alt="Peter Hase">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body d-flex flex-column h-100 justify-content-center">
@@ -360,13 +373,13 @@
                     </div>
                 </div>
             </div>
-
-
+    
+            <!-- A. Feder Cooper -->
             <div class="col">
                 <div class="card h-100">
                     <div class="row g-0 h-100">
                         <div class="col-md-4 d-flex align-items-center justify-content-center">
-                            <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2024/09/cooper_photo.jpg" class="img-fluid rounded-start p-2" alt="A. Feder Cooper">
+                            <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2024/09/cooper_photo.jpg" class="img-fluid rounded-start p-2 speaker-img" alt="A. Feder Cooper">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body d-flex flex-column h-100 justify-content-center">
@@ -377,12 +390,13 @@
                     </div>
                 </div>
             </div>
-
+    
+            <!-- Amy Cyphert -->
             <div class="col">
                 <div class="card h-100">
                     <div class="row g-0 h-100">
                         <div class="col-md-4 d-flex align-items-center justify-content-center">
-                            <img src="https://csassets.static.wvu.edu/nksr1a/63c21eeb-776e-4000-98ac-2bc6061f53b1/690d1bfc34db776b2323ccf6f962e45b/2017-18%20Cyphert_Amy%20Web-288x384.jpg" class="img-fluid rounded-start p-2" alt="Amy Cyphert">
+                            <img src="https://csassets.static.wvu.edu/nksr1a/63c21eeb-776e-4000-98ac-2bc6061f53b1/690d1bfc34db776b2323ccf6f962e45b/2017-18%20Cyphert_Amy%20Web-288x384.jpg" class="img-fluid rounded-start p-2 speaker-img" alt="Amy Cyphert">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body d-flex flex-column h-100 justify-content-center">
@@ -393,11 +407,13 @@
                     </div>
                 </div>
             </div>
+    
+            <!-- Dan Hendrycks -->
             <div class="col">
                 <div class="card h-100">
                     <div class="row g-0 h-100">
                         <div class="col-md-4 d-flex align-items-center justify-content-center">
-                            <img src="https://people.eecs.berkeley.edu/~hendrycks/me_2018_high_def.JPG" class="img-fluid rounded-start p-2" alt="Dan Hendrycks">
+                            <img src="https://people.eecs.berkeley.edu/~hendrycks/me_2018_high_def.JPG" class="img-fluid rounded-start p-2 speaker-img" alt="Dan Hendrycks">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body d-flex flex-column h-100 justify-content-center">
@@ -408,7 +424,10 @@
                     </div>
                 </div>
             </div>
+    
         </div>
+    </section>
+    
 
         <!-- Organizing Team Section -->
         <section id="team">
